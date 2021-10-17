@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Scikit-learn, NLP, Deep learning**
 
-- 📝 I write articles on [Medium](Medium)
+- 📝 I write articles on [Medium](https://medium.com/@Starlord8)
 
 - 💬 Ask me about **Tech stuff**
 
